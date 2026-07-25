@@ -77,4 +77,8 @@ Make the GitHub repo public, and grab both links (repo + live URL) for your subm
 
 ## Where AI was used
 
-I collaborated with an AI coding assistant to completely overhaul the visual identity of the project, taking the standard alpine theme and customizing it into a "Cyber-Alpine" dark mode layout. We paired to rewrite the base CSS variables—shifting the color palette to deep slate (`#020617`) with vibrant neon green (`#00ff88`) accents, and updated the typography stack to use Outfit, DM Sans, and Fira Code for a sleeker, more modern aesthetic. We also updated the hero section's inline SVG paths to match the new accent colors. The underlying HTML structure and grid systems remain hand-coded, but the new look and feel is unmistakably custom, built through iterative prompting and design decisions to make it my own.
+Drafted the initial HTML/CSS/JS structure and the alpine/topographic design concept with
+Claude, then hand-adjusted spacing, copy specifics (client names, pricing numbers, tier
+names), and the contour-line hero SVG paths to get something that felt distinctly mine
+rather than a first-pass output. *(Replace this paragraph with your own honest account —
+this is exactly the paragraph the brief asks you to write yourself.)*
