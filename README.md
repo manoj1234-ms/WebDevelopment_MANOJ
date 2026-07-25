@@ -1,5 +1,6 @@
 # NorthPeak Digital — one-page agency site
 
+**Live Site:** [https://manoj.digital/](https://manoj.digital/)
 A responsive one-page site for the fictional agency **NorthPeak Digital**, built for the
 Digital Heroes Web Development qualification task (Role 05, Task A + Task B).
 
